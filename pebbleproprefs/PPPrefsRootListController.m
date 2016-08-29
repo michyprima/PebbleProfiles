@@ -1,8 +1,4 @@
-#import <Preferences/Preferences.h>
-
-@interface PPPrefsRootListController: PSListController {
-}
-@end
+#import "PPPrefsRootListController.h"
 
 @implementation PPPrefsRootListController
 

@@ -1,4 +1,4 @@
-include theos/makefiles/common.mk
+include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = PebbleProfiles
 PebbleProfiles_FILES = Tweak.xm
